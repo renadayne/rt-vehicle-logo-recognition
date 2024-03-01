@@ -15,3 +15,6 @@ A few resources to get you started if this is your first Embedded project:
 If you have any concern, don't hesitate to contact me via:
 - Gmail: huytuduelist@gmail.com
 - [Facebook](https://www.facebook.com/pororo1001)
+
+Special thanks to: 
+- [Jeremy Ellis](https://www.youtube.com/@Rocksetta)
