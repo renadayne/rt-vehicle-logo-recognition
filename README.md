@@ -1,6 +1,6 @@
 # Real-time Vehicle Logo Recognition
 
-A real-time vehicle logo recognition system using Edge Impulse.
+A real-time vehicle logo recognition system using Edge Impulse. This topic was provided by Dr. Hung Nguyen Kiem
 
 ## Getting Started 
 
